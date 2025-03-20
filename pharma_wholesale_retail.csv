@@ -1,0 +1,101 @@
+Account_Number,Product_ID,Product_Name,Category,Wholesale_Price,Retail_Price,Units_Sold,Supplier,Region,Expiry_Date,Sales_Date,Sales_Channel,Payment_Method,Customer_Type,Shipment_Status,Return_Status,Total_Profit
+AC61140,P5395,Amoxicillin 250mg,Antibiotic,6.65,12.33,578,GlobalMeds Inc.,Europe,22-03-2026,09-03-2025,Offline,Cash,Pharmacy,Delivered,Not Returned,3283.04
+AC54840,P4316,Metformin 500mg,Diabetes,2.43,4.59,781,MedLife Pharma,South USA,14-12-2025,18-03-2025,Online,Credit,Pharmacy,Pending,Not Returned,1686.96
+AC38542,P7089,Cetirizine 10mg,Allergy,6,11.81,375,HealthMeds Inc.,North USA,07-08-2026,15-03-2025,Offline,Credit,Distributor,Delivered,Returned,2178.75
+AC47682,P9190,Atorvastatin 10mg,Cholesterol,9.73,17.68,639,GlobalMeds Inc.,South USA,09-04-2026,23-02-2025,Offline,Bank Transfer,Pharmacy,Delivered,Not Returned,5080.05
+AC10851,P6493,Insulin 100IU,Diabetes,9.6,17.46,153,MedLife Pharma,South USA,23-01-2027,26-02-2025,Offline,Credit,Hospital,Pending,Returned,1202.58
+AC36492,P6161,Losartan 50mg,Blood Pressure,2.56,5.81,486,HealthMeds Inc.,South USA,04-07-2026,07-03-2025,Online,Credit,Pharmacy,Pending,Returned,1579.5
+AC29785,P4477,Amoxicillin 250mg,Antibiotic,5.03,9.26,375,PharmaPlus Ltd.,Asia,13-01-2026,28-02-2025,Online,Cash,Distributor,Delivered,Not Returned,1586.25
+AC18274,P2247,Cetirizine 10mg,Allergy,9.84,22.89,318,MedLife Pharma,Africa,25-10-2026,26-02-2025,Offline,Credit,Pharmacy,Pending,Not Returned,4149.9
+AC75481,P6208,Ibuprofen 200mg,Pain Relief,5.08,8.44,262,PharmaPlus Ltd.,Asia,20-04-2026,17-03-2025,Offline,Credit,Hospital,Pending,Returned,880.32
+AC49227,P8090,Atorvastatin 10mg,Cholesterol,2.92,6.2,938,GlobalMeds Inc.,Europe,18-05-2026,28-02-2025,Offline,Credit,Pharmacy,Pending,Returned,3076.64
+AC93848,P9492,Atorvastatin 10mg,Cholesterol,1.8,4.15,652,PharmaPlus Ltd.,South USA,20-03-2026,26-02-2025,Offline,Credit,Hospital,Pending,Returned,1532.2
+AC77439,P7190,Losartan 50mg,Blood Pressure,4.27,6.91,863,HealthMeds Inc.,Africa,10-12-2025,04-03-2025,Online,Cash,Distributor,Pending,Returned,2278.32
+AC49452,P3924,Ibuprofen 200mg,Pain Relief,8.8,13.4,634,PharmaCorp Ltd.,Africa,26-10-2025,21-02-2025,Offline,Credit,Distributor,Delivered,Not Returned,2916.4
+AC57628,P4484,Losartan 50mg,Blood Pressure,7.05,11.81,587,MedLife Pharma,North USA,17-03-2026,14-03-2025,Online,Bank Transfer,Hospital,Pending,Not Returned,2794.12
+AC45350,P2535,Cough Syrup 100ml,Cold & Flu,1.01,1.91,356,PharmaPlus Ltd.,South USA,03-11-2025,21-02-2025,Offline,Cash,Pharmacy,Pending,Returned,320.4
+AC31831,P4815,Insulin 100IU,Diabetes,8.21,13.94,968,PharmaPlus Ltd.,South USA,19-12-2025,18-03-2025,Online,Cash,Pharmacy,Delivered,Returned,5546.64
+AC45375,P4714,Paracetamol 500mg,Pain Relief,5.06,11.61,907,GlobalMeds Inc.,Europe,06-02-2027,18-02-2025,Offline,Bank Transfer,Pharmacy,Pending,Not Returned,5940.85
+AC88945,P2923,Amoxicillin 250mg,Antibiotic,7,15.52,910,GlobalMeds Inc.,Africa,18-01-2027,08-03-2025,Online,Credit,Pharmacy,Delivered,Not Returned,7753.2
+AC46793,P6961,Ibuprofen 200mg,Pain Relief,8.78,18.64,830,PharmaPlus Ltd.,Asia,13-12-2026,15-03-2025,Online,Bank Transfer,Pharmacy,Pending,Returned,8183.8
+AC27217,P4118,Paracetamol 500mg,Pain Relief,8.28,17.71,393,PharmaPlus Ltd.,Africa,28-02-2026,05-03-2025,Offline,Cash,Hospital,Pending,Returned,3705.99
+AC96002,P5173,Cetirizine 10mg,Allergy,3,5.45,163,HealthMeds Inc.,Africa,15-02-2027,24-02-2025,Online,Bank Transfer,Distributor,Delivered,Not Returned,399.35
+AC81381,P4467,Losartan 50mg,Blood Pressure,9.63,20.86,308,HealthMeds Inc.,South USA,25-02-2026,17-03-2025,Offline,Credit,Hospital,Pending,Returned,3458.84
+AC15954,P2307,Cough Syrup 100ml,Cold & Flu,2.7,5.43,400,GlobalMeds Inc.,North USA,21-12-2026,02-03-2025,Offline,Credit,Pharmacy,Delivered,Not Returned,1092
+AC45067,P6556,Ibuprofen 200mg,Pain Relief,6.25,10.61,316,MedLife Pharma,North USA,05-10-2025,11-03-2025,Online,Cash,Pharmacy,Pending,Returned,1377.76
+AC83348,P8370,Insulin 100IU,Diabetes,5.54,13.38,657,GlobalMeds Inc.,Africa,18-03-2026,16-03-2025,Online,Credit,Hospital,Delivered,Not Returned,5150.88
+AC83941,P6117,Cetirizine 10mg,Allergy,8.57,17.63,529,MedLife Pharma,Europe,24-11-2025,21-02-2025,Offline,Cash,Hospital,Pending,Returned,4792.74
+AC89339,P7907,Cough Syrup 100ml,Cold & Flu,5.91,9.45,152,MedLife Pharma,Asia,30-11-2025,11-03-2025,Online,Credit,Hospital,Delivered,Not Returned,538.08
+AC47298,P5155,Cough Syrup 100ml,Cold & Flu,3.08,7.41,192,HealthMeds Inc.,Africa,04-10-2025,28-02-2025,Online,Bank Transfer,Pharmacy,Pending,Returned,831.36
+AC11475,P5303,Paracetamol 500mg,Pain Relief,6.12,12.34,518,PharmaPlus Ltd.,Africa,14-05-2026,06-03-2025,Offline,Credit,Hospital,Delivered,Not Returned,3221.96
+AC24124,P9974,Cetirizine 10mg,Allergy,4.09,7.92,466,GlobalMeds Inc.,Africa,02-06-2026,27-02-2025,Offline,Bank Transfer,Pharmacy,Delivered,Returned,1784.78
+AC80362,P6728,Cough Syrup 100ml,Cold & Flu,4.98,8.56,424,PharmaPlus Ltd.,Asia,02-09-2026,01-03-2025,Online,Cash,Pharmacy,Pending,Returned,1517.92
+AC99267,P3416,Amoxicillin 250mg,Antibiotic,5.53,12.82,859,MedLife Pharma,North USA,08-01-2027,07-03-2025,Online,Credit,Pharmacy,Pending,Not Returned,6262.11
+AC94572,P1820,Paracetamol 500mg,Pain Relief,1.86,3.17,370,HealthMeds Inc.,Asia,02-03-2026,05-03-2025,Online,Bank Transfer,Pharmacy,Pending,Returned,484.7
+AC28264,P2338,Cetirizine 10mg,Allergy,2.46,4.99,604,HealthMeds Inc.,Africa,06-02-2027,21-02-2025,Offline,Cash,Hospital,Pending,Not Returned,1528.12
+AC82779,P8262,Paracetamol 500mg,Pain Relief,4.41,7.37,806,HealthMeds Inc.,South USA,15-09-2026,08-03-2025,Offline,Bank Transfer,Pharmacy,Delivered,Returned,2385.76
+AC90212,P6612,Metformin 500mg,Diabetes,8.06,16.19,932,GlobalMeds Inc.,Europe,31-08-2026,22-02-2025,Offline,Credit,Pharmacy,Delivered,Not Returned,7577.16
+AC68933,P1749,Metformin 500mg,Diabetes,4.24,6.55,225,PharmaPlus Ltd.,Europe,15-01-2026,26-02-2025,Online,Bank Transfer,Hospital,Pending,Not Returned,519.75
+AC69382,P6576,Ibuprofen 200mg,Pain Relief,2.5,5.21,682,HealthMeds Inc.,Asia,04-07-2026,02-03-2025,Offline,Cash,Hospital,Pending,Returned,1848.22
+AC39538,P5881,Paracetamol 500mg,Pain Relief,10,21.88,755,MedLife Pharma,Africa,31-10-2025,07-03-2025,Offline,Credit,Hospital,Pending,Returned,8969.4
+AC79925,P4446,Cough Syrup 100ml,Cold & Flu,9.37,21.18,535,PharmaPlus Ltd.,Europe,09-07-2026,10-03-2025,Online,Credit,Hospital,Pending,Not Returned,6318.35
+AC44848,P9597,Ibuprofen 200mg,Pain Relief,6.19,12.64,781,MedLife Pharma,Asia,22-10-2025,14-03-2025,Online,Bank Transfer,Hospital,Delivered,Returned,5037.45
+AC64795,P6541,Amoxicillin 250mg,Antibiotic,6.44,11.01,390,PharmaPlus Ltd.,South USA,14-09-2026,28-02-2025,Offline,Cash,Distributor,Delivered,Returned,1782.3
+AC70871,P1194,Omeprazole 20mg,Acid Reflux,1.13,2.01,315,HealthMeds Inc.,South USA,29-12-2026,18-03-2025,Offline,Bank Transfer,Pharmacy,Pending,Returned,277.2
+AC99097,P1872,Ibuprofen 200mg,Pain Relief,8.47,13.38,964,HealthMeds Inc.,Europe,16-08-2026,25-02-2025,Online,Credit,Distributor,Pending,Returned,4733.24
+AC47500,P2201,Metformin 500mg,Diabetes,2.29,3.92,911,MedLife Pharma,Asia,06-09-2026,14-03-2025,Offline,Credit,Pharmacy,Delivered,Returned,1484.93
+AC92673,P5332,Ibuprofen 200mg,Pain Relief,8.07,12.73,821,MedLife Pharma,South USA,14-10-2026,17-03-2025,Offline,Bank Transfer,Pharmacy,Pending,Returned,3825.86
+AC82906,P7341,Losartan 50mg,Blood Pressure,1.28,2.12,474,GlobalMeds Inc.,South USA,20-11-2026,15-03-2025,Offline,Bank Transfer,Distributor,Pending,Returned,398.16
+AC82639,P4290,Insulin 100IU,Diabetes,9.68,19.99,326,GlobalMeds Inc.,Europe,20-10-2026,23-02-2025,Offline,Cash,Pharmacy,Delivered,Not Returned,3361.06
+AC19992,P3410,Cetirizine 10mg,Allergy,6.94,16.78,653,MedLife Pharma,Asia,17-10-2025,18-03-2025,Online,Bank Transfer,Pharmacy,Pending,Not Returned,6425.52
+AC84580,P5243,Losartan 50mg,Blood Pressure,6.12,9.82,575,PharmaCorp Ltd.,Asia,12-03-2026,14-03-2025,Offline,Bank Transfer,Distributor,Pending,Not Returned,2127.5
+AC47623,P3583,Insulin 100IU,Diabetes,7.23,12.4,809,MedLife Pharma,North USA,17-10-2025,28-02-2025,Online,Cash,Distributor,Delivered,Returned,4182.53
+AC83815,P5769,Paracetamol 500mg,Pain Relief,6.62,11.68,672,PharmaCorp Ltd.,Asia,29-01-2026,01-03-2025,Online,Bank Transfer,Pharmacy,Pending,Not Returned,3400.32
+AC46055,P7350,Losartan 50mg,Blood Pressure,5.47,12.09,613,GlobalMeds Inc.,Asia,30-08-2026,17-02-2025,Online,Credit,Distributor,Pending,Returned,4058.06
+AC96691,P3731,Cetirizine 10mg,Allergy,2.86,5.22,950,PharmaPlus Ltd.,North USA,18-12-2025,26-02-2025,Online,Credit,Pharmacy,Delivered,Returned,2242
+AC80561,P1730,Losartan 50mg,Blood Pressure,5.53,11.17,567,HealthMeds Inc.,Africa,07-11-2026,18-03-2025,Offline,Credit,Hospital,Pending,Not Returned,3197.88
+AC99922,P6088,Ibuprofen 200mg,Pain Relief,3.64,6.32,424,HealthMeds Inc.,North USA,13-04-2026,18-03-2025,Online,Bank Transfer,Hospital,Delivered,Not Returned,1136.32
+AC48633,P9264,Atorvastatin 10mg,Cholesterol,3.73,8.72,244,MedLife Pharma,South USA,23-05-2026,07-03-2025,Online,Cash,Pharmacy,Pending,Not Returned,1217.56
+AC40411,P9915,Ibuprofen 200mg,Pain Relief,1.17,2.49,941,GlobalMeds Inc.,Asia,31-01-2026,24-02-2025,Offline,Credit,Pharmacy,Pending,Returned,1242.12
+AC56582,P9279,Atorvastatin 10mg,Cholesterol,9.73,23.12,762,GlobalMeds Inc.,Europe,10-01-2027,02-03-2025,Online,Bank Transfer,Hospital,Pending,Returned,10203.18
+AC94237,P9572,Insulin 100IU,Diabetes,2.33,3.5,539,HealthMeds Inc.,Asia,16-10-2026,04-03-2025,Online,Cash,Distributor,Pending,Not Returned,630.63
+AC72261,P8105,Omeprazole 20mg,Acid Reflux,3.09,6.26,494,MedLife Pharma,Africa,23-02-2027,10-03-2025,Offline,Credit,Distributor,Pending,Not Returned,1565.98
+AC39964,P5866,Paracetamol 500mg,Pain Relief,2.68,5.22,278,PharmaPlus Ltd.,Asia,26-08-2026,02-03-2025,Online,Credit,Hospital,Delivered,Not Returned,706.12
+AC76123,P1206,Cetirizine 10mg,Allergy,8.81,15.73,498,GlobalMeds Inc.,South USA,02-12-2026,08-03-2025,Offline,Cash,Pharmacy,Delivered,Returned,3446.16
+AC60447,P4850,Losartan 50mg,Blood Pressure,8.51,18.22,967,MedLife Pharma,Europe,09-08-2026,27-02-2025,Online,Credit,Distributor,Pending,Returned,9389.57
+AC31147,P9134,Metformin 500mg,Diabetes,4.57,8.34,847,PharmaPlus Ltd.,Asia,24-02-2026,09-03-2025,Offline,Cash,Pharmacy,Delivered,Not Returned,3193.19
+AC85293,P7470,Omeprazole 20mg,Acid Reflux,1.57,3.17,594,MedLife Pharma,Africa,12-12-2025,16-03-2025,Offline,Bank Transfer,Hospital,Pending,Not Returned,950.4
+AC19896,P5643,Omeprazole 20mg,Acid Reflux,3.54,7.89,512,PharmaPlus Ltd.,Asia,05-01-2027,12-03-2025,Offline,Cash,Distributor,Delivered,Returned,2227.2
+AC54566,P7692,Insulin 100IU,Diabetes,4.04,9.99,580,GlobalMeds Inc.,North USA,13-02-2027,26-02-2025,Online,Credit,Pharmacy,Pending,Returned,3451
+AC18165,P5478,Cetirizine 10mg,Allergy,5.43,10.43,250,PharmaCorp Ltd.,North USA,15-10-2026,07-03-2025,Online,Cash,Hospital,Pending,Not Returned,1250
+AC85400,P8581,Atorvastatin 10mg,Cholesterol,1.42,2.37,453,GlobalMeds Inc.,Africa,19-07-2026,07-03-2025,Offline,Cash,Pharmacy,Pending,Not Returned,430.35
+AC98089,P3926,Cough Syrup 100ml,Cold & Flu,6.19,13.27,471,HealthMeds Inc.,Europe,11-01-2027,06-03-2025,Online,Credit,Pharmacy,Delivered,Not Returned,3334.68
+AC65219,P3815,Amoxicillin 250mg,Antibiotic,2.49,5.86,740,MedLife Pharma,Asia,28-02-2027,18-02-2025,Offline,Bank Transfer,Distributor,Delivered,Returned,2493.8
+AC91164,P5407,Insulin 100IU,Diabetes,2.32,5.75,917,HealthMeds Inc.,Europe,16-11-2026,14-03-2025,Online,Bank Transfer,Hospital,Pending,Returned,3145.31
+AC99611,P6048,Amoxicillin 250mg,Antibiotic,3.26,6.5,473,PharmaPlus Ltd.,North USA,01-10-2025,06-03-2025,Online,Bank Transfer,Hospital,Delivered,Returned,1532.52
+AC13009,P4899,Amoxicillin 250mg,Antibiotic,8.14,14.79,107,GlobalMeds Inc.,North USA,16-10-2026,27-02-2025,Online,Cash,Distributor,Pending,Not Returned,711.55
+AC72473,P4069,Ibuprofen 200mg,Pain Relief,5.25,9.99,373,PharmaPlus Ltd.,Europe,17-09-2025,17-02-2025,Offline,Credit,Pharmacy,Delivered,Returned,1768.02
+AC27947,P4385,Metformin 500mg,Diabetes,3.44,7.2,679,MedLife Pharma,South USA,17-01-2026,17-02-2025,Offline,Credit,Hospital,Pending,Returned,2553.04
+AC97533,P3584,Losartan 50mg,Blood Pressure,4.41,9.03,963,PharmaCorp Ltd.,Africa,08-08-2026,14-03-2025,Online,Cash,Hospital,Pending,Not Returned,4449.06
+AC77103,P4218,Paracetamol 500mg,Pain Relief,2.51,6.19,181,PharmaPlus Ltd.,South USA,10-11-2026,23-02-2025,Offline,Credit,Hospital,Delivered,Not Returned,666.08
+AC33021,P3396,Metformin 500mg,Diabetes,3.3,5.53,512,HealthMeds Inc.,Asia,03-12-2026,06-03-2025,Offline,Bank Transfer,Hospital,Delivered,Returned,1141.76
+AC66579,P8205,Cough Syrup 100ml,Cold & Flu,3.01,5.79,326,HealthMeds Inc.,North USA,16-09-2026,14-03-2025,Online,Cash,Hospital,Delivered,Not Returned,906.28
+AC38383,P2094,Omeprazole 20mg,Acid Reflux,3.75,9.12,154,GlobalMeds Inc.,North USA,18-07-2026,18-02-2025,Offline,Bank Transfer,Pharmacy,Pending,Not Returned,826.98
+AC18477,P3099,Atorvastatin 10mg,Cholesterol,3.42,5.66,673,PharmaPlus Ltd.,South USA,30-10-2026,03-03-2025,Online,Credit,Hospital,Pending,Not Returned,1507.52
+AC50903,P9855,Cough Syrup 100ml,Cold & Flu,9.21,18.08,385,PharmaPlus Ltd.,South USA,17-02-2026,17-02-2025,Online,Cash,Distributor,Pending,Returned,3414.95
+AC74946,P6127,Omeprazole 20mg,Acid Reflux,1.34,2.23,601,PharmaCorp Ltd.,Africa,28-11-2025,10-03-2025,Offline,Bank Transfer,Distributor,Delivered,Not Returned,534.89
+AC23080,P1907,Losartan 50mg,Blood Pressure,9.65,22.2,101,PharmaPlus Ltd.,Asia,02-09-2026,04-03-2025,Online,Bank Transfer,Hospital,Delivered,Not Returned,1267.55
+AC86254,P4861,Insulin 100IU,Diabetes,7.8,13.64,987,GlobalMeds Inc.,Europe,29-12-2025,19-02-2025,Offline,Bank Transfer,Pharmacy,Delivered,Returned,5764.08
+AC16600,P1622,Omeprazole 20mg,Acid Reflux,7.89,18.21,412,MedLife Pharma,South USA,23-07-2026,08-03-2025,Online,Credit,Distributor,Pending,Returned,4251.84
+AC61868,P4234,Atorvastatin 10mg,Cholesterol,1.66,3.54,230,PharmaPlus Ltd.,Asia,14-04-2026,21-02-2025,Online,Cash,Hospital,Pending,Not Returned,432.4
+AC76160,P4563,Paracetamol 500mg,Pain Relief,6.95,17.14,196,GlobalMeds Inc.,South USA,15-11-2026,24-02-2025,Offline,Cash,Pharmacy,Pending,Not Returned,1997.24
+AC73914,P4228,Cetirizine 10mg,Allergy,9.09,14.4,267,PharmaCorp Ltd.,Europe,15-11-2026,13-03-2025,Offline,Cash,Hospital,Delivered,Returned,1417.77
+AC57325,P7546,Omeprazole 20mg,Acid Reflux,9.7,20.33,485,MedLife Pharma,Africa,07-10-2026,04-03-2025,Online,Credit,Hospital,Pending,Returned,5155.55
+AC23057,P9436,Paracetamol 500mg,Pain Relief,1.82,4.24,883,PharmaPlus Ltd.,Europe,06-05-2026,22-02-2025,Offline,Cash,Hospital,Delivered,Not Returned,2136.86
+AC44905,P9238,Ibuprofen 200mg,Pain Relief,3.04,7.23,209,PharmaPlus Ltd.,North USA,09-09-2026,06-03-2025,Offline,Bank Transfer,Distributor,Pending,Not Returned,875.71
+AC21245,P1214,Ibuprofen 200mg,Pain Relief,9.33,16.34,745,PharmaCorp Ltd.,Europe,29-10-2026,07-03-2025,Online,Cash,Distributor,Delivered,Returned,5222.45
+AC67171,P6422,Atorvastatin 10mg,Cholesterol,9.05,15.65,222,GlobalMeds Inc.,Africa,25-10-2025,27-02-2025,Online,Credit,Distributor,Pending,Returned,1465.2
+AC58605,P5847,Cough Syrup 100ml,Cold & Flu,5.05,8.79,316,HealthMeds Inc.,Africa,12-03-2026,26-02-2025,Offline,Cash,Hospital,Pending,Returned,1181.84
+AC36430,P6623,Atorvastatin 10mg,Cholesterol,4.63,8.38,240,GlobalMeds Inc.,South USA,10-09-2026,11-03-2025,Online,Bank Transfer,Hospital,Delivered,Returned,900
+AC78107,P8969,Losartan 50mg,Blood Pressure,6.8,10.41,867,HealthMeds Inc.,South USA,03-01-2026,27-02-2025,Offline,Bank Transfer,Distributor,Delivered,Not Returned,3129.87
+AC90609,P9990,Metformin 500mg,Diabetes,8.19,16.36,911,HealthMeds Inc.,South USA,06-12-2025,04-03-2025,Offline,Credit,Distributor,Pending,Not Returned,7442.87
